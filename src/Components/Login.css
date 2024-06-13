@@ -1,0 +1,27 @@
+p{
+    font-size: 40px;
+    font: medium;
+}
+.login{
+    background-color: #FBFBFB;
+    border-top-right-radius: 30px;
+}
+.LoginFields:focus{
+    border-color: #79D2B9;
+}
+.login-button{
+    background-color: #79D2B9;
+    width: 64%;
+    border-color: #79D2B9;
+    color: #ffffff;
+}
+.forget-btn{
+    color: #505050;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-size: 15px;
+}
+.sign-btn{
+    color: #505050;
+    font-size: 15px;
+}

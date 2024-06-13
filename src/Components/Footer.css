@@ -1,0 +1,20 @@
+.social-media-icons {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .facebook-icon:hover {
+    color: #4267B2; /* Facebook blue */
+  }
+  
+  .linkedin-icon:hover {
+    color: #0072b1; /* LinkedIn blue */
+  }
+  
+  .github-icon:hover {
+    color: #333; /* GitHub dark gray */
+  }
+  
+  .instagram-icon:hover {
+    color: #8a3ab5; /* Instagram purple */
+  }

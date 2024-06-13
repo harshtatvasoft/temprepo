@@ -1,0 +1,28 @@
+.header-register-bg{
+    height: 100vh;
+    background-color: rgba(235, 227, 214, 0.21);
+}
+.header-register{
+    font-size:40px;
+    font-weight: bold;
+    color: rgba(0, 0, 0, 0.85);
+}
+.backbtn{
+    color: #38bc97;
+    border: 1px solid #38bc97;
+    text-decoration: none;
+}
+#register-button{
+    background-color: #79D2B9;
+}
+
+.singIn{
+    color: #79D2B9;
+}
+@media (max-width:440px){
+    .header{
+        font-size:30px;
+        font-weight: bold;
+        color: black;
+    }
+}

@@ -1,0 +1,33 @@
+.Headerbtn,.Headerbtn:hover{
+    border: 0px;
+    padding: 10px;
+    background-color: white;
+    font-weight: bold;
+    color: black;
+}
+#DonateNowBtn{
+    background-color: #79D2B9; 
+}
+.dropdownmenu .dropdownitem:hover{
+    background-color:#79D2B9 ;
+    color: white;
+}
+#dropdown-basic:active,#dropdown-basic:focus{
+    color: black;
+}
+.dropdownmenu {
+    width: 100px; 
+}
+.dropdownitem {
+    width: 100%;
+}
+.offcanvas{
+    max-width: 300px;
+}
+.ToggleBtnDonate, .ToggleBtnDonate:active ,.ToggleBtnDonate::after{
+    background-color: #79D2B9;
+}
+.OffCanvasOptions:hover{
+    background-color: #79D2B9;
+    color: white;
+}

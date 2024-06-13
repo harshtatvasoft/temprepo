@@ -1,0 +1,11 @@
+.temptext{
+    position: relative;
+    font: medium;
+    font-size: 16px;
+    color: black;
+    background-color: #FFFFFF;
+    box-shadow: 6px -20px 20px 10px white;
+}
+/* img{
+border-top-left-radius: 30px;
+} */
